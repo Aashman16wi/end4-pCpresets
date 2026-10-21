@@ -43,7 +43,7 @@
       "nextId": 2,
       "primaryId": 1,
       "radius": 30,
-      "tree": "{\"t\":\"leaf\",\"id\":1,\"img\":\"e73e56e6-d25c-485d-9367-57c1a09dadea_upscayl_4x_upscayl-standard-4x.png\"}"
+      "tree": "{\"t\":\"leaf\",\"id\":1,\"img\":\"\"}"
     },
     "enableWallpaperPreview": true,
     "hideWhenFullscreen": true,
@@ -51,7 +51,7 @@
       "pauseBelowPercent": 0,
       "pauseOnBattery": false
     },
-    "lockWall": "1369866.png",
+    "lockWall": "",
     "parallax": {
       "autoVertical": false,
       "enableSidebar": false,
@@ -154,7 +154,7 @@
       },
       "imageCard": {
         "enable": false,
-        "path": "lore.webp",
+        "path": "",
         "placementStrategy": "free",
         "sizeMode": "1x3",
         "x": 36,
@@ -602,7 +602,7 @@
     "banner": true,
     "bannerFocusX": 0.5,
     "bannerFocusY": 0.5,
-    "bannerImage": "1311994.jpeg",
+    "bannerImage": "",
     "bottomGroup": false,
     "cornerOpen": {
       "bottom": false,
